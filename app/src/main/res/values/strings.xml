@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KPonto</string>
+    <string name="registrar_ponto">Registrar Ponto</string>
+    <string name="email_kabum">Email Kabum</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="kabum">KaBuM!</string>
+    <string name="ponto_digital">Ponto Digital</string>
+    <string name="entrar">Entrar</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "pontop_kabum"
+include ':app'
