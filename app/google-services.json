@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42946387605",
+    "project_id": "kponto-fa57d",
+    "storage_bucket": "kponto-fa57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42946387605:android:26c11875374f774c99059c",
+        "android_client_info": {
+          "package_name": "com.example.pontop_kabum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42946387605-n4pl88fom48lj89taog8kro9c63snlct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pontop_kabum",
+            "certificate_hash": "d0f1f9004db9c0de6de963568f7f94c6907df9d7"
+          }
+        },
+        {
+          "client_id": "42946387605-2p0u5sikpocjiappfjgaqfurp1kaq1fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYaDKl-8SBC6gGHuH5UIu7MQj88er_dVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42946387605-2p0u5sikpocjiappfjgaqfurp1kaq1fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

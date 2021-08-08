@@ -25,7 +25,7 @@ class PontoRegistro : AppCompatActivity() {
                 updateTimer()
             }
         }, 0, 1000)
-
+2
     }
     fun updateTimer() {
         runOnUiThread {
@@ -41,7 +41,7 @@ class PontoRegistro : AppCompatActivity() {
         val registrar = findViewById<Button>(R.id.registrarPonto)
         val registroEntrada = findViewById<TextView>(R.id.registroEntrada)
         registrar.setOnClickListener(){
-            registroEntrada.text = SimpleDateFormat("'Entrada: 'hh:mm", Locale.ROOT).format(Date())
+            registroEntrada.text = SimpleDateFormat("'Entrada: 'hh:mm:ss", Locale.ROOT).format(Date())
         }
     }
 }
