@@ -18,8 +18,8 @@
 
    [![Linkedin Badge](https://img.shields.io/static/v1?label=&message=Erik%20Mendes&color=0000FF&style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/devmendesrc/)
 
-   [![issues](https://img.shields.io/github/issues/CledilsonWisp/payFlow)]()
-   [![issues](https://img.shields.io/github/stars/CledilsonWisp/payFlow)]()
+   [![issues](https://img.shields.io/github/issues/ErikMendesRC/kponto)]()
+   [![issues](https://img.shields.io/github/stars/ErikMendesRC/kponto)]()
    </div>
 
 
@@ -65,13 +65,8 @@
 <h2 align="center">Layout 🎨</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="PayFlow" src="https://user-images.githubusercontent.com/59374587/122856653-86779c80-d2ed-11eb-8927-8c5433dc37d3.png" />
-   </p>
-
-   <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
-   
-   - <a href="https://www.figma.com/file/kLK7FYnWKMoN68sQXcSniu/PayFlow">Mobile</a> 📱
+      <img alt="KPontoLogin" title="KPontoLogin" src="https://user-images.githubusercontent.com/29191714/128654258-5c4d7db6-a3e8-43c3-b20e-34d4af981ff9.png" />
+      <img alt="KPonto" title="KPonto" src="https://user-images.githubusercontent.com/29191714/128654280-665052ee-28ff-4b78-88b1-87bb39dbc865.png" />
    </p>
 
 
@@ -98,7 +93,7 @@
 <h2 align="center">Tecnologia 💻</h2>
  <p>
 
- -[Kotlinps://developer.android.com/kotlin?hl=pt&gclid=EAIaIQobChMIhcqyieyi8gIVUR6tBh0SQAwLEAAYASAAEgKDIPD_BwE&gclsrc=aw.ds)
+ -[Kotlin](https://developer.android.com/kotlin?hl=pt&gclid=EAIaIQobChMIhcqyieyi8gIVUR6tBh0SQAwLEAAYASAAEgKDIPD_BwE&gclsrc=aw.ds)
 
  </p>
 
@@ -111,7 +106,7 @@
 <h2 align="center">Desafios e Aprendizados no Caminho </h2>
 
    <p>
-   Os maiores aprendizados está sendo trabalhar com Date no kotlin e também a melhoria de abilidades com Design
+   Os maiores aprendizados está sendo trabalhar com Date no kotlin e também a melhoria de habilidades com Design
    </p>
 
 
