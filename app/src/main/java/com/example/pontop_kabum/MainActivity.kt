@@ -25,12 +25,7 @@ class MainActivity : AppCompatActivity() {
 
     private val TAG = "GoogleActivity"
     private val RC_SIGN_IN = 9001
-
-    // [START declare_auth]
     private var mAuth: FirebaseAuth? = null
-    // [END declare_auth]
-
-    // [END declare_auth]
     private var mGoogleSignInClient: GoogleSignInClient? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -47,13 +42,11 @@ class MainActivity : AppCompatActivity() {
         mGoogleSignInClient = GoogleSignIn.getClient(this, gso)
         mAuth = FirebaseAuth.getInstance()
 
-
         binding.button.setOnClickListener {
             signIn()
         }
     }
 
-    // [START on_start_check_user]
     override fun onStart() {
         super.onStart()
         // Check if user is signed in (non-null) and update UI accordingly.
