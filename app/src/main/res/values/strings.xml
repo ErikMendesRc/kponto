@@ -1,9 +1,14 @@
 <resources>
-    <string name="app_name">KPonto</string>
+    <string name="app_name">Ponto Digital</string>
     <string name="registrar_ponto">Registrar Ponto</string>
     <string name="email_kabum">Email Kabum</string>
     <string name="digite_sua_senha">Digite sua senha</string>
     <string name="kabum">KaBuM!</string>
     <string name="ponto_digital">Ponto Digital</string>
     <string name="entrar">Login Google</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_historico_ponto">Histórico</string>
+    <string name="hora_extra_mensal">Hora Extra Mensal</string>
+    <string name="faltas_mensal">Faltas Mensal</string>
 </resources>
